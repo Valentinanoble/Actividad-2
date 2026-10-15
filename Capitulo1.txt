@@ -1,1 +1,4 @@
 desarrollo capitulo 1
+Introducción
+Git es una herramienta que permite llevar un registro de las modificaciones realizadas en los archivos de un proyecto. Su uso facilita la organización del trabajo, la recuperación de versiones anteriores y la identificación de los cambios efectuados durante el desarrollo de una actividad. 
+En este capítulo se presentan los conceptos básicos del control de versiones, el origen de Git, su instalación y configuración inicial.
